@@ -1,2 +1,0 @@
-# Frontend-Projects
-Projects Repo 
