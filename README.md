@@ -20,7 +20,7 @@ You may find projects as follows:
 2. React.js projects in the master branch.
 3. Other Brnaches to be added and may include both multiple types of projects.
 
-Feel free to explore more on my [GitHub Repositories](https://github.com/Ahmedcz/Frontend-Projects.git).
+Feel free to explore more on my [GitHub Repositories](https://github.com/Ahmedcz).
 
 ## Skills
 
