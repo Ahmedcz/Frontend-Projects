@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hello, I'm Ahmed Amine a passionate Front-End Developer with a background in various fields. I enjoy exploring and working on various technologies, always eager to learn and contribute to exciting projects.
+Hello, I'm Ahmed Amine, a passionate Frontend Developer with a multidisciplinary background. I enjoy exploring and working on various technologies, always eager to learn and contribute to exciting projects. 
+Currently I am switching my career to Tech, and this repository showcase the my prpjects Portfolio during and after my training. 
 
 ## Interests
 
@@ -13,26 +14,23 @@ Hello, I'm Ahmed Amine a passionate Front-End Developer with a background in var
 
 ## Projects
 
-You may find various HTML / CSS / JavaScript projects in the main brnch, as well as a list of React projects in the master branch that were developed during my Web Developmenet Training, I will keep uploadiing 
-other projects, mainly web apps, as soon as they are ready:
+You may find projects as follows:
 
-1. Main - HTML / CSS / JS projects.
-2. Master - React Projects.
+1. HTML / CSS / JS projects in the main branch.
+2. React.js projects in the master branch.
+3. Other Brnaches to be added and may include both multiple types of projects.
 
-Feel free to explore more on my GitHub Repositories 
+Feel free to explore more on my [GitHub Repositories](https://github.com/Ahmedcz).
 
 ## Skills
 
-- **Languages:** HTML / CSS /JavaScript 
-- **Libraries:** React.js / Redux
-- **Tools:** VS Code
+- **Languages:** [HTML, CSS, JS]
+- **Libraries:** [React.js]
+- **Tools:** [VS Code]
 
-## Let's Connect!
+## For collaborations, feel free to contact me using the email below !
 
 - 📧 Email: amine.yahyaoui2@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-a-yahyaoui-9663b6199/
-
-## Open for Collaboration
 
 I'm always open to collaboration and new opportunities. If you have an interesting project or just want to connect, feel free to reach out!
 
