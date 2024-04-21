@@ -16,9 +16,8 @@ Currently I am switching my career to Tech, and this repository showcase the my 
 
 You may find projects as follows:
 
-1. HTML / CSS / JS projects in the main branch.
-2. React.js projects in the master branch.
-3. Other Brnaches to be added and may include both multiple types of projects.
+1. HTML / CSS / JS / ReactJS projects in the main branch
+2. Other Brnaches to be added and may include both multiple types of projects and or draft codes. 
 
 Feel free to explore more on my [GitHub Repositories](https://github.com/Ahmedcz).
 
