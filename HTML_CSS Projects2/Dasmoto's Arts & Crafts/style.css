@@ -1,0 +1,50 @@
+#Banner {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("pattern.jpeg");
+    text-align: center;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+img {
+    align-items: left; /*To be Discussed */
+}
+.brushes,
+.paint,
+.frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.paint{
+   background-color: skyblue;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+figcaption {
+    font-weight: bold;
+    color: black;
+    font-family: Helvetica;
+    margin-top: 10px;
+}
+
+span { 
+ font-family: Helvetica;
+ font-weight: bold;
+ color: blue;
+}

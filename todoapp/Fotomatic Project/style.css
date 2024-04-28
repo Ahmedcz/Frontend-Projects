@@ -1,0 +1,298 @@
+html {
+    font-family: "Roboto", sans-serif;
+   
+
+  }
+
+/* Styling the header */
+
+.container {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-weight: normal;
+    margin-left: 20px;
+}
+
+.navbar {
+    display: flex;
+    padding-right: 20px;
+    align-items: center;
+}
+
+.navbar img {
+    height:18px;
+    width: 18px;
+    margin-right: 20px;
+}
+
+.navbar span {
+    margin-left: 60px;
+}
+
+.navbar .instagram {
+    text-decoration: none;
+    color: #4a4a4a;
+    margin-right: 20px;
+}
+
+header a,
+.navbar span a,
+.navbar span img,
+.instagram a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #4a4a4a;
+}
+
+
+/* Main Section */
+
+.demo {
+    display: flex;
+    background-image: url('./images/banner.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 43.5rem;
+    width: 100%;
+    padding-top: 0;
+    margin-top: 70px;
+}
+
+.demo .waiting-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: #98C510;
+    height: 320px;
+    width: 530px;
+    margin-top: 180px;
+    margin-left: 160px;
+    padding: 20px;
+    border-radius: 4px;
+    border: solid 1px #979797;
+}
+
+#instant {
+   font-family: 'Damion', cursive;
+   font-size: 34px;
+   margin-bottom: 0.01px;
+   margin-top: 5px;
+  
+}
+
+#format {
+    font-family: "Rubik", sans-serif;
+    font-size: 3.125rem;
+    margin-top: 5px;
+    margin-bottom: 0.01px;
+
+}
+#email {
+    text-align: center;
+    text-justify: inter-word;
+    max-width: 70%;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}
+#sign-up {
+    font-size: 20px ;
+    background-color: #555555;
+    padding: 20px 100px;
+    margin-bottom: 50px;
+    border-radius: 4px;
+}
+
+
+.types {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #f3f3f3;
+    padding: 60px 90px 60px 90px;
+
+}
+
+.types .img {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    padding: 30px 60px 80px 60px;
+}
+
+
+.img .title {
+  font-weight: bold;
+  font-size: 2.25rem;
+  text-align: center;
+  margin-bottom: 2px; 
+  color: #4a4a4a;
+}
+
+.img .description {
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: center;
+  color: #4a4a4a;
+  margin-top: 2px;
+}
+
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #555555;
+    color: white;
+    width: 100%;
+    padding-bottom: 65px;
+    padding-top: 40px;
+}
+
+.images img {
+    max-width: 367px;
+    height: 367px;
+}
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+}
+
+
+.filter h1 {
+    margin-bottom: 2px;
+    color: white;
+    font-weight: bold;
+}
+.filter h3 {
+    margin-top: 2px;
+    margin-bottom: 80px;
+    font-weight: 300;
+  
+}
+
+.quote {
+    display: flex;
+    background-color: #f3f3f3;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+}
+
+.quote span {
+    padding-right: 1.875rem;
+    font-family: "Palatino", serif;
+    font-size: 30px;
+    line-height: 1.1;
+    font-style: italic;
+    color: #4a4a4a;
+}
+
+
+/* Styling the Footer */ 
+
+footer .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #9b9b9b;
+    height: 70px;
+    font-size: 12px;
+    color: white;
+}
+
+.content .copyright {
+ padding-left: 40px;
+}
+
+.content .location {
+  padding-right: 40px;
+}
+
+/* Making the design responsive */
+
+@media only screen and (min-width: 769px) {
+    /* Header */
+    .container {
+        height: 70px;
+    }
+
+    /* Main Section */
+    .demo {
+        margin-top: 70px;
+    }
+
+    .demo .waiting-list {
+        width: 530px;
+        margin-left: 160px;
+    }
+
+    /* Types Section */
+    .types {
+        padding: 60px 90px;
+    }
+
+    .types .img {
+        width: 500px;
+        height: 450px;
+        padding: 30px 60px 80px 60px;
+    }
+
+    .img .title {
+        font-size: 2.25rem;
+    }
+
+    .img .description {
+        font-size: 1rem;
+    }
+
+    /* Filter Section */
+    .filter {
+        padding-bottom: 65px;
+        padding-top: 40px;
+    }
+
+    .images img {
+        max-width: 367px;
+        height: 367px;
+    }
+
+    /* Quote Section */
+    .quote {
+        height: 180px;
+    }
+
+    .quote span {
+        font-size: 30px;
+    }
+
+    /* Footer */
+    footer .content {
+        height: 70px;
+        font-size: 12px;
+    }
+}
